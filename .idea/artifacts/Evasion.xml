@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Evasion">
+    <output-path>$PROJECT_DIR$/out/artifacts/Evasion</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="evasion.main.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Evasion" />
+        <option name="vendor" value="" />
+        <option name="version" value="Beta 1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Evasion.jar">
+        <element id="module-output" name="Evasion" />
+      </element>
+    </root>
+  </artifact>
+</component>
